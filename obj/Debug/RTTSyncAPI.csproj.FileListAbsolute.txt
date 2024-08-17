@@ -1,0 +1,15 @@
+D:\Dotnet projects\RTTSyncAPI\bin\Debug\RTTSyncAPI.exe.config
+D:\Dotnet projects\RTTSyncAPI\bin\Debug\RTTSyncAPI.exe
+D:\Dotnet projects\RTTSyncAPI\bin\Debug\RTTSyncAPI.pdb
+D:\Dotnet projects\RTTSyncAPI\obj\Debug\RTTSyncAPI.csproj.AssemblyReference.cache
+D:\Dotnet projects\RTTSyncAPI\obj\Debug\MainWindow.g.cs
+D:\Dotnet projects\RTTSyncAPI\obj\Debug\App.g.cs
+D:\Dotnet projects\RTTSyncAPI\obj\Debug\RTTSyncAPI_MarkupCompile.cache
+D:\Dotnet projects\RTTSyncAPI\obj\Debug\RTTSyncAPI_MarkupCompile.lref
+D:\Dotnet projects\RTTSyncAPI\obj\Debug\MainWindow.baml
+D:\Dotnet projects\RTTSyncAPI\obj\Debug\RTTSyncAPI.g.resources
+D:\Dotnet projects\RTTSyncAPI\obj\Debug\RTTSyncAPI.Properties.Resources.resources
+D:\Dotnet projects\RTTSyncAPI\obj\Debug\RTTSyncAPI.csproj.GenerateResource.cache
+D:\Dotnet projects\RTTSyncAPI\obj\Debug\RTTSyncAPI.csproj.CoreCompileInputs.cache
+D:\Dotnet projects\RTTSyncAPI\obj\Debug\RTTSyncAPI.exe
+D:\Dotnet projects\RTTSyncAPI\obj\Debug\RTTSyncAPI.pdb
